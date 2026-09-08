@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MS-MEDICAL-00023-00002-00014/canvas/258"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Inscription by Nissim ben Abraham about this grandfather.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ZsofiBuda",
+                "name": "ZsofiBuda"
+            },
+            "created": "2026-09-08T14:22:25.807Z",
+            "modified": "2026-09-08T14:23:04.795Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-MEDICAL-00023-00002-00014",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MS-MEDICAL-00023-00002-00014/canvas/258",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1150.09033203125,3648.87353515625,2403.57861328125,740.88818359375"
+        }
+    },
+    "id": "a9efb516-67af-4031-804f-2dceb4b84e37.json",
+    "motivation": "commenting"
+}
