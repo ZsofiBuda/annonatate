@@ -1,2 +1,9 @@
-images: []
+images:
+- added: '2026-09-08 14:20:38.024459'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://image.digitalcollections.manchester.ac.uk/iiif/MS-MEDICAL-00023-00002-00014-000-00258.jp2
+  user: ZsofiBuda
 settings: {}
+version: '2.1'
